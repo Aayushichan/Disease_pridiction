@@ -1,0 +1,1 @@
+streamlit run "E:\ml bootcamp\Disease\app.py"
